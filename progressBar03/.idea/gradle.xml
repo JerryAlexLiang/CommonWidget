@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../ServiceBreakpointResume" />
+            <option value="$PROJECT_DIR$/../activity" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../broadcastreceiver" />
+            <option value="$PROJECT_DIR$/../camera" />
+            <option value="$PROJECT_DIR$/../contentprovider" />
+            <option value="$PROJECT_DIR$/../convenientbanner" />
+            <option value="$PROJECT_DIR$/../convenientbanner-lib" />
+            <option value="$PROJECT_DIR$/../customalertdialog" />
+            <option value="$PROJECT_DIR$/../customiospopupwindow" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../fragment" />
+            <option value="$PROJECT_DIR$/../fragment_test" />
+            <option value="$PROJECT_DIR$/../hLiveDemo" />
+            <option value="$PROJECT_DIR$/../highskill" />
+            <option value="$PROJECT_DIR$/../iOSDiaLog" />
+            <option value="$PROJECT_DIR$/../jcvideoplayer-lib" />
+            <option value="$PROJECT_DIR$/../liveActionMapView" />
+            <option value="$PROJECT_DIR$/../mediaplayer" />
+            <option value="$PROJECT_DIR$/../notification" />
+            <option value="$PROJECT_DIR$/../okhttpdemo" />
+            <option value="$PROJECT_DIR$/../okhttplibrary" />
+            <option value="$PROJECT_DIR$/../refreshlibrary" />
+            <option value="$PROJECT_DIR$/../service" />
+            <option value="$PROJECT_DIR$/../slidegridview" />
+            <option value="$PROJECT_DIR$/../spannablestringbuilder" />
+            <option value="$PROJECT_DIR$/../spinner" />
+            <option value="$PROJECT_DIR$/../viewpagerdemo" />
+            <option value="$PROJECT_DIR$/../xpushreceiver" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

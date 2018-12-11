@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ServiceBreakpointResume/ServiceBreakpointResume.iml" filepath="$PROJECT_DIR$/../ServiceBreakpointResume/ServiceBreakpointResume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestProject2017.iml" filepath="$PROJECT_DIR$/../TestProject2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../activity/activity.iml" filepath="$PROJECT_DIR$/../activity/activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/../broadcastreceiver/broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../camera/camera.iml" filepath="$PROJECT_DIR$/../camera/camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/../contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../convenientbanner/convenientbanner.iml" filepath="$PROJECT_DIR$/../convenientbanner/convenientbanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../convenientbanner-lib/convenientbanner-lib.iml" filepath="$PROJECT_DIR$/../convenientbanner-lib/convenientbanner-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../customalertdialog/customalertdialog.iml" filepath="$PROJECT_DIR$/../customalertdialog/customalertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../customiospopupwindow/customiospopupwindow.iml" filepath="$PROJECT_DIR$/../customiospopupwindow/customiospopupwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customprogressdiaolg.iml" filepath="$PROJECT_DIR$/customprogressdiaolg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragment/fragment.iml" filepath="$PROJECT_DIR$/../fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fragment_test/fragment_test.iml" filepath="$PROJECT_DIR$/../fragment_test/fragment_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hLiveDemo/hLiveDemo.iml" filepath="$PROJECT_DIR$/../hLiveDemo/hLiveDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../highskill/highskill.iml" filepath="$PROJECT_DIR$/../highskill/highskill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../iOSDiaLog/iOSDiaLog.iml" filepath="$PROJECT_DIR$/../iOSDiaLog/iOSDiaLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jcvideoplayer-lib/jcvideoplayer-lib.iml" filepath="$PROJECT_DIR$/../jcvideoplayer-lib/jcvideoplayer-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../liveActionMapView/liveActionMapView.iml" filepath="$PROJECT_DIR$/../liveActionMapView/liveActionMapView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/../mediaplayer/mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../notification/notification.iml" filepath="$PROJECT_DIR$/../notification/notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/../okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../okhttplibrary/okhttplibrary.iml" filepath="$PROJECT_DIR$/../okhttplibrary/okhttplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../refreshlibrary/refreshlibrary.iml" filepath="$PROJECT_DIR$/../refreshlibrary/refreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service/service.iml" filepath="$PROJECT_DIR$/../service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../slidegridview/slidegridview.iml" filepath="$PROJECT_DIR$/../slidegridview/slidegridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spannablestringbuilder/spannablestringbuilder.iml" filepath="$PROJECT_DIR$/../spannablestringbuilder/spannablestringbuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spinner/spinner.iml" filepath="$PROJECT_DIR$/../spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viewpagerdemo/viewpagerdemo.iml" filepath="$PROJECT_DIR$/../viewpagerdemo/viewpagerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xpushreceiver/xpushreceiver.iml" filepath="$PROJECT_DIR$/../xpushreceiver/xpushreceiver.iml" />
+    </modules>
+  </component>
+</project>
