@@ -1,1 +1,2 @@
-include ':app',":progressBar",":progressBar02",":progressBar03"
+include ':app',":progressBar",":progressBar02",":progressBar03", ':zfPayInputBox',":azSortCityList02",
+        ":azSortCityList",":ImagePullBigScrollView"

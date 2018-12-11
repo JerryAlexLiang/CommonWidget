@@ -8,10 +8,14 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ImagePullBigScrollView" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/azSortCityList" />
+            <option value="$PROJECT_DIR$/azSortCityList02" />
             <option value="$PROJECT_DIR$/progressBar" />
             <option value="$PROJECT_DIR$/progressBar02" />
             <option value="$PROJECT_DIR$/progressBar03" />
+            <option value="$PROJECT_DIR$/zfPayInputBox" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
