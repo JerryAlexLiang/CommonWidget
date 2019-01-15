@@ -1,3 +1,3 @@
-include ':app', ":progressBar", ":progressBar02", ":progressBar03", ':zfPayInputBox', ":azSortCityList02",
-        ":azSortCityList", ':ImagePullBigScrollView', ":checkCardCalendars", ":checkCardCalendars02",
-        ':timeChooseDialog',":autoCompleteTextView",":verticalScrollingTextView",":clock"
+include ':app', ':progressBar', ':progressBar02', ':progressBar03', ':zfPayInputBox', ':azSortCityList02',
+        ':azSortCityList', ':ImagePullBigScrollView', ':checkCardCalendars', ':checkCardCalendars02',
+        ':timeChooseDialog', ':autoCompleteTextView', ':verticalScrollingTextView', ':clock', ':spannableString'
